@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Abhranil2004/Solar-System-Project
+    git clone https://github.com/Abhranil2004/Solar-System-Project.git
     ```
 2. **Navigate to the project directory:**
     ```bash
